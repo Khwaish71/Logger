@@ -1,0 +1,7 @@
+2023-03-07 12:19:58,315 INFO com.dailycodebuffer.SpringLoggingApplication [main] Starting SpringLoggingApplication on ATL-FA00889-35 with PID 30314 (/home/khwaish.tongiya/Desktop/Spring-MVC-Tutorials/SpringLogging/target/classes started by khwaish.tongiya in /home/khwaish.tongiya/Desktop/Spring-MVC-Tutorials/SpringLogging)
+2023-03-07 12:19:58,328 DEBUG com.dailycodebuffer.SpringLoggingApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-03-07 12:19:58,329 INFO com.dailycodebuffer.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-03-07 12:20:00,109 INFO com.dailycodebuffer.SpringLoggingApplication [main] Started SpringLoggingApplication in 2.342 seconds (JVM running for 3.752)
+2023-03-07 12:20:15,443 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2023-03-07 12:20:17,227 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2023-03-07 12:20:17,670 INFO com.dailycodebuffer.HomeController [http-nio-8080-exec-6] FATAL ERROR
